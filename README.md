@@ -1,1 +1,1 @@
-# interfacing ATmega328P with PC using RS485 Protocol
+# Interfacing ATmega328P with PC using RS485 Protocol
