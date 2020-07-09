@@ -1,1 +1,1 @@
-# ATmega328p-to-PC-RS485-communication-tutorial
+# interfacing ATmega328P with PC using RS485 Protocol
