@@ -21,8 +21,8 @@ Tutorial on interfacing your Windows 10 PC with an ATmega328P microcontroller us
 
 ## Toolchain /IDE
 
-- The Code for ATmega328P is written in AVR C using ATMEL Studio 7
-- C# code is written using Microsoft Visual Studio Community Edition 2019
+- The Code for ATmega328P is written in **AVR C** using **ATMEL Studio 7**.
+- C# code is written using **Microsoft Visual Studio Community Edition 2019**.
 
 ## Tools used 
 
