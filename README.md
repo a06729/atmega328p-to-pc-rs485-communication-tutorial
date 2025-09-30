@@ -20,6 +20,4 @@ Tutorial on interfacing your Windows 10 PC with an ATmega328P microcontroller us
 ## Tools used 
 
 - ATmega328P Microcontroller
-- MAX485 RS485 chip 
-- [USB to RS485 Converter](https://www.xanthium.in/ft232-based-usb-to-serial-rs485-converter-industrial-scientific-applications)
-- ![logo](https://www.xanthium.in/sites/default/files/site-images/usb2rs485-v2-2-product-page/ft232-usb-rs485-converter-v2-2-610px.png)
+- MAX485 RS485 chip
