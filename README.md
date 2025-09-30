@@ -1,8 +1,6 @@
 # Interfacing ATmega328P with PC using RS485 Protocol
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-<img src="https://www.xanthium.in/sites/default/files/site-images/atmega328p-rs485-pc-comm-tutorial/atmega328-pc-rs485-transmission.png" >
-
 ## Online Tutorial
 
 
