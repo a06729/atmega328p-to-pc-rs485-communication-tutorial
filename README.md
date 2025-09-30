@@ -1,11 +1,6 @@
 # Interfacing ATmega328P with PC using RS485 Protocol
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-## Online Tutorial
-
-
-   - [RS485 communication from ATmega328p microcontroller to PC Tutorial](https://www.xanthium.in/atmel-microchip-avr-atmega328p-rs485-communication-with-computer-tutorial-for-beginners)
-   
 ## Introduction
 
 Tutorial on interfacing your Windows 10 PC with an ATmega328P microcontroller using RS485 Protocol for Bidirectional Communication.
